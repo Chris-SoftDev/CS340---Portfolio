@@ -1,5 +1,3 @@
-# Project README
-
 ## Overview
 
 This README provides insights into the development and application of a CRUD Python module used in Projects One and Two, as well as reflections on problem-solving approaches and the role of computer scientists in enhancing business operations.
